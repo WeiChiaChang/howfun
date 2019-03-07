@@ -1,10 +1,10 @@
 # My namecard
 
-![Imgur](https://i.imgur.com/fIFzF8x.png)
+![Imgur](./images/preview.png)
 
 ## Usage
 ```
-npx wesleychang
+npx howfun
 ```
 
 ## Credits
