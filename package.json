@@ -1,0 +1,24 @@
+{
+  "name": "howfun",
+  "version": "0.1.0",
+  "description": "A personal card for HOWHOW",
+  "main": "index.js",
+  "bin": {
+    "wesleychang": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Wesley Chang (WeiChiaChang)",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
